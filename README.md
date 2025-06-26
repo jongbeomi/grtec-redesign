@@ -31,19 +31,28 @@ PC 환경에서는 다음과 같은 문제점이 존재합니다:
 ### 1. 홈 페이지
 - 화면 폭 대비 콘텐츠 영역이 너무 좋아 여백 낭비가 발생
 - 실시간 인기 상품은 폰트 크기가 작아 정보 전달 비효율
-![image](https://github.com/user-attachments/assets/273b7d31-4875-41c9-ab1e-aff0f3e35ae5)
+![image](https://github.com/user-attachments/assets/963f8906-70fa-401f-98eb-1a18709257fd)
+![image](https://github.com/user-attachments/assets/963f8906-70fa-401f-98eb-1a18709257fd)
+
 
 ### 2. 코디 페이지
 - 콘텐츠 비율이 모바일 기반이라 화면 사용 비효율
 - 필터 UI가 단조롭고 hover/CTA 부재
+![image](https://github.com/user-attachments/assets/a02254bf-0f12-480f-8226-f46d91d31c2b)
+![image](https://github.com/user-attachments/assets/a02254bf-0f12-480f-8226-f46d91d31c2b)
+
 
 ### 3. 카테고리 페이지
 - 세로 아코디언 메뉴는 데스크탑 UX에 부적합
 - 카테고리 미리보기 이미지가 과도하게 커서 탐색 비효율
+![image](https://github.com/user-attachments/assets/935c4686-a80d-4a7e-8959-6a5b3b098bb0)
+![image](https://github.com/user-attachments/assets/935c4686-a80d-4a7e-8959-6a5b3b098bb0)
 
 ### 4. 이벤트(99특가) 페이지
 - PC에서도 모바일 전용 비율 그대로 노출
 - CTA 부족 및 단조로운 단일 컬럼 구조
+![image](https://github.com/user-attachments/assets/aea44e3f-5693-4fff-9875-a59a457d5e5e)
+![image](https://github.com/user-attachments/assets/aea44e3f-5693-4fff-9875-a59a457d5e5e)
 
 ---
 
